@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 df = pd.read_excel('./12月份衣服销售数据.xlsx')
